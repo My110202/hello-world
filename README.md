@@ -1,6 +1,6 @@
 # hello-world
 just one repository. 
-  please speak english
-  hi!humans
-  thank you
+  please speak english.
+  hi!humans.
+  thank you.
   you are welcome
